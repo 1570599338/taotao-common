@@ -54,6 +54,14 @@
 			<groupId>org.slf4j</groupId>
 			<artifactId>slf4j-log4j12</artifactId>
 		</dependency>
+		<!-- 分页依赖 -->
+		<dependency>  
+		    <groupId>com.github.pagehelper</groupId>  
+		    <artifactId>pagehelper</artifactId>  
+	</dependency> 
+		
 	</dependencies>
+	
+	
 	
 </project>
